@@ -6,7 +6,7 @@
 例如：<br>
 进入api_demo，执行<br>
 #### cnpm i express
-这个错误通常是由于缺少 "@vue/cli-plugin-babel" 模块所致。要解决这个问题，可以按照以下步骤：
+查看或安装Vue Cli：
 
 1. 打开终端窗口，进入到你的 Vue CLI 项目的根目录下。
 
